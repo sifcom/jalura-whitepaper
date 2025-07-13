@@ -1,3 +1,5 @@
+![JALURA Logo](https://ipfs.io/ipfs/bafkreidlvekzq2g3anvoqkanrjvc2bnvlbk4dg6wtvfxx3enphg7znwa5u)
+
 # jalura-whitepaper
 📄 Official Whitepaper &amp; Launch Assets for $JALURA – The Viral Meme Coin Fueled by PACU JALUR &amp; AURA Farming 🌊
 # 🌊 $JALURA – Official Whitepaper
@@ -12,7 +14,6 @@ This repository contains all the core materials and documentation related to the
 - 🌐 `landing-page/` – HTML code for the project's promotional landing page.
 - 🧾 `metadata/` – Token metadata files and IPFS records.
 
-![JALURA Logo](https://ipfs.io/ipfs/bafkreidlvekzq2g3anvoqkanrjvc2bnvlbk4dg6wtvfxx3enphg7znwa5u)
 
 # 🚀 $JALURA — The Meme Coin Born from the PACU JALUR Wave!
 
