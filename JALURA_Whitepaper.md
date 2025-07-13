@@ -7,6 +7,10 @@
 # 💠 $JALURA — Whitepaper  
 _A Meme Coin Inspired by Culture, Community, and Viral Energy_
 
+$JALURA is a Solana meme coin inspired by the viral "Pacu Jalur" & "Aura Farming" social trend. Engineered for community energy and cultural virality, this token aims to ride the wave of Web3 with humor, hype, and transparency.
+
+This whitepaper is co-written and ideated with the assistance of ChatGPT, showcasing how AI can support human creativity and decentralized culture.
+
 
 ## 1. Executive Summary
 
