@@ -1,0 +1,41 @@
+{
+    "name": "$JALURA",
+    "symbol": "JALURA",
+    "description": "The official meme coin of the viral PACU JALUR & AURA FARMING wave \u2014 powered by the Solana blockchain and launched on Raydium.",
+    "image": "ipfs://bafkreidlvekzq2g3anvoqkanrjvc2bnvlbk4dg6wtvfxx3enphg7znwa5u",
+    "decimals": 9,
+    "seller_fee_basis_points": 0,
+    "attributes": [
+        {
+            "trait_type": "Blockchain",
+            "value": "Solana"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Meme Coin"
+        },
+        {
+            "trait_type": "Supply",
+            "value": "1,000,000,000"
+        },
+        {
+            "trait_type": "Trend",
+            "value": "PACU JALUR & AURA FARMING"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://bafkreidlvekzq2g3anvoqkanrjvc2bnvlbk4dg6wtvfxx3enphg7znwa5u",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "54Qzyf9w4HyFgS5fYtiWGMFSXPcos2578Lc5SXw9t4gb",
+                "share": 100
+            }
+        ]
+    }
+}
