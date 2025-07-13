@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://ipfs.io/ipfs/bafkreidlvekzq2g3anvoqkanrjvc2bnvlbk4dg6wtvfxx3enphg7znwa5u" width="150" alt="$JALURA logo" />
+</p>
+
+<h1 align="center">$JALURA Whitepaper</h1>
+
 # jalura-whitepaper
 📄 Official Whitepaper &amp; Launch Assets for $JALURA – The Viral Meme Coin Fueled by PACU JALUR &amp; AURA Farming 🌊
 # 🌊 $JALURA – Official Whitepaper
