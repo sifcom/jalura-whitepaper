@@ -11,6 +11,16 @@ $JALURA is a Solana meme coin inspired by the viral "Pacu Jalur" & "Aura Farming
 
 This whitepaper is co-written and ideated with the assistance of ChatGPT, showcasing how AI can support human creativity and decentralized culture.
 
+## 📚 Table of Contents
+- [Introduction](#introduction)
+- [Tokenomics](#tokenomics)
+- [Raise Plan](#-raise-plan)
+- [Vesting](#-vesting)
+- [Launch Strategy](#launch-strategy)
+- [Roadmap](#roadmap)
+- [Team & Transparency](#team--transparency)
+- [Social Links](#social-links)
+
 
 ## 1. Executive Summary
 
@@ -111,3 +121,7 @@ This project was ideated and developed with the creative and technical assistanc
 Join the ride:  
 🐦 Twitter: [@JaluraCoin](https://twitter.com/JaluraCoin)  
 💬 Telegram: [t.me/JALURAcoin](https://t.me/JALURAcoin)
+
+---
+
+**Disclaimer:** $JALURA is a meme coin for entertainment and cultural celebration. It is not an investment vehicle. Always DYOR (Do Your Own Research).
