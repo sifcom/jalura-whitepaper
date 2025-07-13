@@ -67,7 +67,7 @@ To protect the community, the team’s tokens are locked and vested:
 
 ## 📜 Whitepaper
 
-📄 [Read the Full Whitepaper (PDF)](https://github.com/sifcom/JaluraMemeCoin/blob/Jalura/whitepaper/JALURA_Whitepaper.pdf)
+📄 [Read the Full Whitepaper (PDF)](https://github.com/sifcom/JaluraMemeCoin/blob/whitepaper/JALURA_Whitepaper.pdf)
 
 ---
 
