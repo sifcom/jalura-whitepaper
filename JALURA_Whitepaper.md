@@ -17,7 +17,7 @@ This whitepaper is co-written and ideated with the assistance of ChatGPT, showca
 - [Raise Plan](#-raise-plan)
 - [Vesting](#-vesting)
 - [Launch Strategy](#launch-strategy)
-- [Roadmap](#roadmap)
+- [Roadmap](#roadmap)** “To be revealed post-launch”**
 - [Team & Transparency](#team--transparency)
 - [Social Links](#social-links)
 
