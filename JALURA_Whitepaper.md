@@ -115,9 +115,9 @@ _aka: The Racecourse_
 - “Farm That Aura” meme contest
 
 ### 🚤 Phase 2: The Great Paddle
-- NFT drop: Rowers, Shamans, Boosters
-- Community staking pool ("Aura Pond")
-- Listings on Solscan, Gecko, Raydium
+- Launch of Aura Arena (meme battles & community challenges)
+- NFT Drop: Rowers, Shamans & Aura Boosters
+- Listings on Solscan, Gecko, & Raydium charts
 
 ### 🌈 Phase 3: Spiritual Domination
 - Viral content with SEA creators
