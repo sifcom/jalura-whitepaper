@@ -151,6 +151,10 @@ This isn’t a pump & dump — it’s a **paddle & pump**. 🚤
 
 ## 9. Legal Disclaimer
 
+📜 Legal Disclaimer
+Disclaimer: This project references the use of ChatGPT, a product developed by OpenAI, as a tool for assistance in planning, writing, and structuring project materials. OpenAI and ChatGPT are trademarks of OpenAI. The use of these tools does not imply any formal affiliation, endorsement, or partnership with OpenAI.
+
+
 This whitepaper is a creative, informational document. It is not financial advice, nor a solicitation to invest. $JALURA is a meme coin designed for fun and cultural celebration.
 
 > Always DYOR. No expectation of profit.  
